@@ -1,0 +1,376 @@
+04/21/2020 01:20:26 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:21:24 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:22:13 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:23:09 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:23:42 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 01:24:50 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:24:50 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 01:25:28 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:25:29 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 01:25:38 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:25:38 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 01:26:07 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:26:34 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:26:34 PM logging in using static token
+04/21/2020 01:26:34 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 01:26:34 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 01:26:35 PM Shard ID None has connected to Gateway: ["gateway-prd-main-njn6",{"micros":40928,"calls":["discord-sessions-prd-1-17",{"micros":35568,"calls":["start_session",{"micros":32051,"calls":["api-prd-main-qm7q",{"micros":29230,"calls":["get_user",{"micros":3062},"add_authorized_ip",{"micros":1635},"get_guilds",{"micros":2833},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: b17cecaa66d9f0b0b5846ab01a82a5b7).
+04/21/2020 01:27:57 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:27:57 PM logging in using static token
+04/21/2020 01:27:58 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 01:27:58 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 01:27:58 PM Shard ID None has connected to Gateway: ["gateway-prd-main-bqgc",{"micros":40949,"calls":["discord-sessions-prd-1-34",{"micros":39991,"calls":["start_session",{"micros":36568,"calls":["api-prd-main-195c",{"micros":33632,"calls":["get_user",{"micros":2836},"add_authorized_ip",{"micros":1814},"get_guilds",{"micros":1764},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2805,"calls":[]}]}]}] (Session ID: 2706eff0a553333abfa55246e2b74b24).
+04/21/2020 01:30:58 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:30:58 PM logging in using static token
+04/21/2020 01:31:00 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 01:31:00 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 01:31:00 PM Shard ID None has connected to Gateway: ["gateway-prd-main-bp9b",{"micros":99715,"calls":["discord-sessions-prd-1-32",{"micros":95292,"calls":["start_session",{"micros":93254,"calls":["api-prd-main-rs9j",{"micros":88575,"calls":["get_user",{"micros":5706},"add_authorized_ip",{"micros":5800},"get_guilds",{"micros":11872},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1222,"calls":[]}]}]}] (Session ID: 6a232d2c106f67b157e0728e3a57c700).
+04/21/2020 01:31:20 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:31:20 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 01:37:30 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:37:30 PM logging in using static token
+04/21/2020 01:37:31 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 01:37:31 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 01:37:31 PM Shard ID None has connected to Gateway: ["gateway-prd-main-bfpq",{"micros":51624,"calls":["discord-sessions-prd-1-5",{"micros":48895,"calls":["start_session",{"micros":45212,"calls":["api-prd-main-7hcg",{"micros":36345,"calls":["get_user",{"micros":4573},"add_authorized_ip",{"micros":1790},"get_guilds",{"micros":1911},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":757,"calls":[]}]}]}] (Session ID: b95760eb0b2b5f2844cafe2f0003f3fb).
+04/21/2020 01:37:46 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:37:47 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 01:41:32 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:41:32 PM logging in using static token
+04/21/2020 01:41:33 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 01:41:33 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 01:41:33 PM Shard ID None has connected to Gateway: ["gateway-prd-main-th3w",{"micros":73639,"calls":["discord-sessions-prd-1-27",{"micros":71910,"calls":["start_session",{"micros":69529,"calls":["api-prd-main-k8k0",{"micros":62307,"calls":["get_user",{"micros":6582},"add_authorized_ip",{"micros":1860},"get_guilds",{"micros":7650},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1328,"calls":[]}]}]}] (Session ID: 2c45573e0e5eebe820db84831bc9a0fc).
+04/21/2020 01:50:20 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:50:20 PM logging in using static token
+04/21/2020 01:50:20 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 01:50:20 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 01:50:21 PM Shard ID None has connected to Gateway: ["gateway-prd-main-nrpr",{"micros":55011,"calls":["discord-sessions-prd-1-77",{"micros":51822,"calls":["start_session",{"micros":48137,"calls":["api-prd-main-rlj6",{"micros":43931,"calls":["get_user",{"micros":4004},"add_authorized_ip",{"micros":2014},"get_guilds",{"micros":2171},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":757,"calls":[]}]}]}] (Session ID: 7914a6e31e03769131f0addab7929f16).
+04/21/2020 01:51:27 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:51:27 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 01:52:07 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 01:52:07 PM logging in using static token
+04/21/2020 01:52:08 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 01:52:08 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 01:52:08 PM Shard ID None has connected to Gateway: ["gateway-prd-main-ws92",{"micros":42388,"calls":["discord-sessions-prd-1-68",{"micros":39751,"calls":["start_session",{"micros":38085,"calls":["api-prd-main-us-east1-dm57",{"micros":34974,"calls":["get_user",{"micros":2569},"add_authorized_ip",{"micros":1534},"get_guilds",{"micros":1382},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 15ec2e94877838811c163bdb96b29040).
+04/21/2020 01:52:20 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 01:52:21 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 02:05:22 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 02:05:22 PM logging in using static token
+04/21/2020 02:05:24 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 02:05:24 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 02:05:24 PM Shard ID None has connected to Gateway: ["gateway-prd-main-nrpr",{"micros":61962,"calls":["discord-sessions-prd-1-7",{"micros":28631,"calls":["start_session",{"micros":25978,"calls":["api-prd-main-us-east1-z3pz",{"micros":22542,"calls":["get_user",{"micros":2274},"add_authorized_ip",{"micros":1322},"get_guilds",{"micros":1364},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 3087e1728883873d4fde06204bf4e160).
+04/21/2020 02:05:53 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 02:05:53 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 02:11:59 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 02:11:59 PM logging in using static token
+04/21/2020 02:11:59 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 02:11:59 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 02:12:00 PM Shard ID None has connected to Gateway: ["gateway-prd-main-n4km",{"micros":128098,"calls":["discord-sessions-prd-1-11",{"micros":126448,"calls":["start_session",{"micros":123868,"calls":["api-prd-main-d4wx",{"micros":120868,"calls":["get_user",{"micros":7541},"add_authorized_ip",{"micros":13362},"get_guilds",{"micros":8154},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":550,"calls":[]}]}]}] (Session ID: 4eeb58f6cd4b7dc085be94ba1291df39).
+04/21/2020 02:12:11 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 02:12:11 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 02:12:31 PM local file loaded: Data\2020_04_21_localSystems.json
+04/21/2020 02:12:32 PM local file loaded: Data\2020_04_21_localFactions.json
+04/21/2020 02:13:42 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 02:13:42 PM logging in using static token
+04/21/2020 02:13:43 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 02:13:43 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 02:13:43 PM Shard ID None has connected to Gateway: ["gateway-prd-main-mfv8",{"micros":62833,"calls":["discord-sessions-prd-1-66",{"micros":55823,"calls":["start_session",{"micros":52676,"calls":["api-prd-main-g4bf",{"micros":48387,"calls":["get_user",{"micros":3738},"add_authorized_ip",{"micros":4172},"get_guilds",{"micros":2256},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1204,"calls":[]}]}]}] (Session ID: e1e5f95b749bc00df977f0562a95baba).
+04/21/2020 02:24:05 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 02:24:05 PM logging in using static token
+04/21/2020 02:24:06 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 02:24:06 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 02:24:06 PM Shard ID None has connected to Gateway: ["gateway-prd-main-r0wx",{"micros":47309,"calls":["discord-sessions-prd-1-74",{"micros":44718,"calls":["start_session",{"micros":43497,"calls":["api-prd-main-f7q0",{"micros":40097,"calls":["get_user",{"micros":3033},"add_authorized_ip",{"micros":1861},"get_guilds",{"micros":1927},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":469,"calls":[]}]}]}] (Session ID: 4ec11073d3e6fa9ec30f25ae1cc1eea0).
+04/21/2020 02:26:21 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 02:26:21 PM logging in using static token
+04/21/2020 02:26:21 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 02:26:21 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 02:26:22 PM Shard ID None has connected to Gateway: ["gateway-prd-main-8l3d",{"micros":63210,"calls":["discord-sessions-prd-1-27",{"micros":61234,"calls":["start_session",{"micros":59850,"calls":["api-prd-main-q8z7",{"micros":52630,"calls":["get_user",{"micros":4878},"add_authorized_ip",{"micros":6458},"get_guilds",{"micros":2338},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: d0a861ea60fb07e16147f725d5a51aa5).
+04/21/2020 02:51:54 PM Received signal to terminate bot and event loop.
+04/21/2020 02:51:54 PM Cleaning up tasks.
+04/21/2020 02:51:54 PM Cleaning up after 4 tasks.
+04/21/2020 02:51:54 PM All tasks finished cancelling.
+04/21/2020 02:51:54 PM Closing the event loop.
+04/21/2020 02:52:28 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 02:52:28 PM logging in using static token
+04/21/2020 02:52:28 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 02:52:28 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 02:52:28 PM Shard ID None has connected to Gateway: ["gateway-prd-main-w660",{"micros":78502,"calls":["discord-sessions-prd-1-13",{"micros":72994,"calls":["start_session",{"micros":71036,"calls":["api-prd-main-6sr6",{"micros":62398,"calls":["get_user",{"micros":13219},"add_authorized_ip",{"micros":1565},"get_guilds",{"micros":2855},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1011,"calls":[]}]}]}] (Session ID: fb9f6683640c2663496234d4c318c1f4).
+04/21/2020 03:01:52 PM Received signal to terminate bot and event loop.
+04/21/2020 03:01:52 PM Cleaning up tasks.
+04/21/2020 03:01:52 PM Cleaning up after 4 tasks.
+04/21/2020 03:01:53 PM All tasks finished cancelling.
+04/21/2020 03:01:53 PM Closing the event loop.
+04/21/2020 03:01:56 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:01:56 PM logging in using static token
+04/21/2020 03:01:57 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:01:57 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:01:57 PM Shard ID None has connected to Gateway: ["gateway-prd-main-fm4x",{"micros":135462,"calls":["discord-sessions-prd-1-24",{"micros":128904,"calls":["start_session",{"micros":126409,"calls":["api-prd-main-30zv",{"micros":121132,"calls":["get_user",{"micros":6363},"add_authorized_ip",{"micros":5069},"get_guilds",{"micros":63668},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1845,"calls":[]}]}]}] (Session ID: 8d4802fce95389062f3d6e4d3513be86).
+04/21/2020 03:03:17 PM Received signal to terminate bot and event loop.
+04/21/2020 03:03:17 PM Cleaning up tasks.
+04/21/2020 03:03:17 PM Cleaning up after 4 tasks.
+04/21/2020 03:03:18 PM All tasks finished cancelling.
+04/21/2020 03:03:18 PM Closing the event loop.
+04/21/2020 03:03:35 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:03:35 PM logging in using static token
+04/21/2020 03:03:36 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:03:36 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:03:36 PM Shard ID None has connected to Gateway: ["gateway-prd-main-th3w",{"micros":39894,"calls":["discord-sessions-prd-1-3",{"micros":38517,"calls":["start_session",{"micros":37374,"calls":["api-prd-main-0fld",{"micros":33480,"calls":["get_user",{"micros":3413},"add_authorized_ip",{"micros":1831},"get_guilds",{"micros":1926},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":222,"calls":[]}]}]}] (Session ID: d0e8ebe481b37be8f13fa60b75ad2b97).
+04/21/2020 03:05:16 PM Received signal to terminate bot and event loop.
+04/21/2020 03:05:16 PM Cleaning up tasks.
+04/21/2020 03:05:16 PM Cleaning up after 4 tasks.
+04/21/2020 03:05:16 PM All tasks finished cancelling.
+04/21/2020 03:05:16 PM Closing the event loop.
+04/21/2020 03:05:21 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:05:21 PM logging in using static token
+04/21/2020 03:05:21 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:05:21 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:05:21 PM Shard ID None has connected to Gateway: ["gateway-prd-main-f6xs",{"micros":35304,"calls":["discord-sessions-prd-1-57",{"micros":33144,"calls":["start_session",{"micros":31524,"calls":["api-prd-main-w5vt",{"micros":28156,"calls":["get_user",{"micros":3257},"add_authorized_ip",{"micros":1704},"get_guilds",{"micros":1758},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 3e4b1cf11ec1f9d04c3d76bf7876e971).
+04/21/2020 03:07:02 PM Received signal to terminate bot and event loop.
+04/21/2020 03:07:02 PM Cleaning up tasks.
+04/21/2020 03:07:02 PM Cleaning up after 4 tasks.
+04/21/2020 03:07:02 PM All tasks finished cancelling.
+04/21/2020 03:07:02 PM Closing the event loop.
+04/21/2020 03:07:05 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:07:05 PM logging in using static token
+04/21/2020 03:07:06 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:07:06 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:07:06 PM Shard ID None has connected to Gateway: ["gateway-prd-main-0vp0",{"micros":44742,"calls":["discord-sessions-prd-1-73",{"micros":43532,"calls":["start_session",{"micros":41036,"calls":["api-prd-main-mkf0",{"micros":36085,"calls":["get_user",{"micros":3051},"add_authorized_ip",{"micros":1684},"get_guilds",{"micros":1647},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":117,"calls":[]}]}]}] (Session ID: 07679b6d5c0d1271ae90ab4ff3785a6a).
+04/21/2020 03:08:06 PM Received signal to terminate bot and event loop.
+04/21/2020 03:08:06 PM Cleaning up tasks.
+04/21/2020 03:08:06 PM Cleaning up after 4 tasks.
+04/21/2020 03:08:06 PM All tasks finished cancelling.
+04/21/2020 03:08:06 PM Closing the event loop.
+04/21/2020 03:08:16 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:08:16 PM logging in using static token
+04/21/2020 03:08:17 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:08:17 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:08:17 PM Shard ID None has connected to Gateway: ["gateway-prd-main-81hf",{"micros":128995,"calls":["discord-sessions-prd-1-49",{"micros":120236,"calls":["start_session",{"micros":117928,"calls":["api-prd-main-6sr6",{"micros":101796,"calls":["get_user",{"micros":13866},"add_authorized_ip",{"micros":3288},"get_guilds",{"micros":2176},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":876,"calls":[]}]}]}] (Session ID: b396c5088f756e612a241ddca199e40c).
+04/21/2020 03:09:19 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:09:19 PM logging in using static token
+04/21/2020 03:09:21 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:09:21 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:09:21 PM Shard ID None has connected to Gateway: ["gateway-prd-main-b9gz",{"micros":51719,"calls":["discord-sessions-prd-1-21",{"micros":40014,"calls":["start_session",{"micros":37701,"calls":["api-prd-main-h4jw",{"micros":33746,"calls":["get_user",{"micros":3587},"add_authorized_ip",{"micros":1547},"get_guilds",{"micros":3353},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":979,"calls":[]}]}]}] (Session ID: b53d9274ee1731b0bbb22eeb8c3fb21c).
+04/21/2020 03:10:31 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:10:31 PM logging in using static token
+04/21/2020 03:10:31 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:10:31 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:10:31 PM Shard ID None has connected to Gateway: ["gateway-prd-main-1tqr",{"micros":61320,"calls":["discord-sessions-prd-1-55",{"micros":58341,"calls":["start_session",{"micros":56325,"calls":["api-prd-main-34jd",{"micros":52484,"calls":["get_user",{"micros":3752},"add_authorized_ip",{"micros":1605},"get_guilds",{"micros":1563},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1153,"calls":[]}]}]}] (Session ID: a4edab5ee12d12b2c91d331b9300048a).
+04/21/2020 03:12:12 PM Received signal to terminate bot and event loop.
+04/21/2020 03:12:12 PM Cleaning up tasks.
+04/21/2020 03:12:12 PM Cleaning up after 4 tasks.
+04/21/2020 03:12:12 PM All tasks finished cancelling.
+04/21/2020 03:12:12 PM Closing the event loop.
+04/21/2020 03:13:01 PM PyNaCl is not installed, voice will NOT be supported
+04/21/2020 03:13:01 PM logging in using static token
+04/21/2020 03:13:01 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 03:13:01 PM Shard ID None has sent the IDENTIFY payload.
+04/21/2020 03:13:01 PM Shard ID None has connected to Gateway: ["gateway-prd-main-p624",{"micros":35891,"calls":["discord-sessions-prd-1-63",{"micros":31343,"calls":["start_session",{"micros":28363,"calls":["api-prd-main-us-east1-ns5z",{"micros":25906,"calls":["get_user",{"micros":2125},"add_authorized_ip",{"micros":1295},"get_guilds",{"micros":1525},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1053,"calls":[]}]}]}] (Session ID: 22e1713dd2788f9d8075f9ba3fc751f4).
+04/21/2020 05:53:53 PM Received RECONNECT opcode.
+04/21/2020 05:53:53 PM Got a request to RESUME the websocket.
+04/21/2020 05:53:54 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 05:53:54 PM Shard ID None has sent the RESUME payload.
+04/21/2020 05:53:54 PM Shard ID None has successfully RESUMED session 22e1713dd2788f9d8075f9ba3fc751f4 under trace ["gateway-prd-main-2qrc",{"micros":6238,"calls":["discord-sessions-prd-1-63",{"micros":19}]}].
+04/21/2020 09:43:34 PM Received RECONNECT opcode.
+04/21/2020 09:43:34 PM Got a request to RESUME the websocket.
+04/21/2020 09:43:35 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 09:43:35 PM Shard ID None has sent the RESUME payload.
+04/21/2020 09:43:35 PM Shard ID None has successfully RESUMED session 22e1713dd2788f9d8075f9ba3fc751f4 under trace ["gateway-prd-main-b9gz",{"micros":4927,"calls":["discord-sessions-prd-1-63",{"micros":19}]}].
+04/21/2020 10:31:54 PM Websocket closed with 1006 (), attempting a reconnect.
+04/21/2020 10:31:54 PM Got a request to RESUME the websocket.
+04/21/2020 10:31:54 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/21/2020 10:31:54 PM Shard ID None has sent the RESUME payload.
+04/21/2020 10:31:55 PM Shard ID None has successfully RESUMED session 22e1713dd2788f9d8075f9ba3fc751f4 under trace ["gateway-prd-main-q07s",{"micros":4482,"calls":["discord-sessions-prd-1-63",{"micros":20}]}].
+04/21/2020 10:33:05 PM Shard ID None has stopped responding to the gateway. Closing and restarting.
+04/21/2020 10:42:38 PM Websocket closed with 1006 (), attempting a reconnect.
+04/21/2020 10:42:38 PM Got a request to RESUME the websocket.
+04/21/2020 10:42:38 PM Attempting a reconnect in 1.83s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 469, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/22/2020 12:10:26 AM Attempting a reconnect in 0.12s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/22/2020 12:10:26 AM Attempting a reconnect in 2.11s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/22/2020 12:10:30 AM Attempting a reconnect in 5.88s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/22/2020 12:10:36 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/22/2020 12:10:36 AM Shard ID None has sent the IDENTIFY payload.
+04/22/2020 12:10:36 AM Shard ID None has connected to Gateway: ["gateway-prd-main-1tqr",{"micros":41235,"calls":["discord-sessions-prd-1-18",{"micros":40107,"calls":["start_session",{"micros":36640,"calls":["api-prd-main-d90g",{"micros":33531,"calls":["get_user",{"micros":4229},"add_authorized_ip",{"micros":1845},"get_guilds",{"micros":3412},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1745,"calls":[]}]}]}] (Session ID: 8e83b98eab9fd314382413c0d09eeea6).
+04/22/2020 12:10:41 AM Shard ID None has stopped responding to the gateway. Closing and restarting.
+04/22/2020 01:25:47 AM Received RECONNECT opcode.
+04/22/2020 01:25:47 AM Got a request to RESUME the websocket.
+04/22/2020 01:25:47 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/22/2020 01:25:47 AM Shard ID None has sent the RESUME payload.
+04/22/2020 01:25:48 AM Shard ID None has successfully RESUMED session 8e83b98eab9fd314382413c0d09eeea6 under trace ["gateway-prd-main-td39",{"micros":3578,"calls":["discord-sessions-prd-1-18",{"micros":18}]}].
+04/22/2020 04:19:08 AM Received RECONNECT opcode.
+04/22/2020 04:19:08 AM Got a request to RESUME the websocket.
+04/22/2020 04:19:09 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/22/2020 04:19:09 AM Shard ID None has sent the RESUME payload.
+04/22/2020 04:19:09 AM Shard ID None has successfully RESUMED session 8e83b98eab9fd314382413c0d09eeea6 under trace ["gateway-prd-main-h77f",{"micros":1444,"calls":["discord-sessions-prd-1-18",{"micros":17}]}].
+04/22/2020 05:05:16 AM Received RECONNECT opcode.
+04/22/2020 05:05:16 AM Got a request to RESUME the websocket.
+04/22/2020 05:05:16 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/22/2020 05:05:16 AM Shard ID None has sent the RESUME payload.
+04/22/2020 05:05:16 AM Shard ID None has successfully RESUMED session 8e83b98eab9fd314382413c0d09eeea6 under trace ["gateway-prd-main-3rst",{"micros":910,"calls":["discord-sessions-prd-1-18",{"micros":15}]}].
+04/22/2020 06:54:05 AM Received RECONNECT opcode.
+04/22/2020 06:54:06 AM Got a request to RESUME the websocket.
+04/22/2020 06:54:06 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/22/2020 06:54:06 AM Shard ID None has sent the RESUME payload.
+04/22/2020 06:54:06 AM Shard ID None has successfully RESUMED session 8e83b98eab9fd314382413c0d09eeea6 under trace ["gateway-prd-main-6fg9",{"micros":1314,"calls":["discord-sessions-prd-1-18",{"micros":12}]}].

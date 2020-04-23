@@ -1,0 +1,514 @@
+{
+    "Contested_Systems": [
+        {
+            "system": "Aulis",
+            "faction": "Dragons of Aulis",
+            "influence": 0.9901,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2884",
+            "faction": "LHS 2884 Hand Gang",
+            "influence": 0.9901,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 5287",
+            "faction": "Pirates of LHS 5287",
+            "influence": 0.9901,
+            "updatedToday": true
+        },
+        {
+            "system": "Ori",
+            "faction": "Hand Gang of Ori",
+            "influence": 0.9901,
+            "updatedToday": true
+        },
+        {
+            "system": "Ross 1003",
+            "faction": "Gang of Ross 1003",
+            "influence": 0.9901,
+            "updatedToday": true
+        },
+        {
+            "system": "Wyrd",
+            "faction": "Wyrd Raiders",
+            "influence": 0.9901,
+            "updatedToday": true
+        },
+        {
+            "system": "CW Ursae Majoris",
+            "faction": "CW Ursae Majoris Gold Raiders",
+            "influence": 0.9911,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2430",
+            "faction": "LHS 2430 Jet Rats",
+            "influence": 0.9911,
+            "updatedToday": true
+        },
+        {
+            "system": "LP 322-836",
+            "faction": "LP 322-836 Gold Mafia",
+            "influence": 0.9911,
+            "updatedToday": true
+        },
+        {
+            "system": "Opala",
+            "faction": "Opala Blue Brotherhood",
+            "influence": 0.9911,
+            "updatedToday": true
+        },
+        {
+            "system": "Tiethay",
+            "faction": "Tiethay Family",
+            "influence": 0.9911,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 350",
+            "faction": "Pirates of LHS 350",
+            "influence": 0.9921,
+            "updatedToday": true
+        },
+        {
+            "system": "Sheela Na Gig",
+            "faction": "Pirates of Sheela Na Gig",
+            "influence": 0.993,
+            "updatedToday": true
+        },
+        {
+            "system": "Styx",
+            "faction": "Styx Silver Mafia",
+            "influence": 0.993,
+            "updatedToday": true
+        },
+        {
+            "system": "Kaal",
+            "faction": "Kaal Jet Raiders",
+            "influence": 0.995,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 6309",
+            "faction": "LHS 6309 Organisation",
+            "influence": 0.996,
+            "updatedToday": true
+        },
+        {
+            "system": "Asellus Primus",
+            "faction": "Asellus Primus Purple Crew",
+            "influence": 0.997,
+            "updatedToday": true
+        },
+        {
+            "system": "Istanu",
+            "faction": "Crew of Istanu",
+            "influence": 0.997,
+            "updatedToday": true
+        },
+        {
+            "system": "Bolg",
+            "faction": "Bolg Rats",
+            "influence": 0.998,
+            "updatedToday": true
+        },
+        {
+            "system": "Eranin",
+            "faction": "Mob of Eranin",
+            "influence": 0.998,
+            "updatedToday": true
+        },
+        {
+            "system": "BD+47 2112",
+            "faction": "BD+47 2112 Gang",
+            "influence": 1,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 331",
+            "faction": "LHS 331 Crimson Mafia",
+            "influence": 1,
+            "updatedToday": true
+        },
+        {
+            "system": "Zaraluvul",
+            "faction": "Pirates of Zaraluvul",
+            "influence": 1.001,
+            "updatedToday": true
+        },
+        {
+            "system": "Meliae",
+            "faction": "Meliae Brotherhood",
+            "influence": 1.1011,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2925",
+            "faction": "LHS 2925 Silver Ring",
+            "influence": 1.3,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2931",
+            "faction": "LHS 2931 Posse",
+            "influence": 1.3,
+            "updatedToday": true
+        },
+        {
+            "system": "Ross 991",
+            "faction": "Ross 991 Silver Pirates",
+            "influence": 1.3,
+            "updatedToday": true
+        },
+        {
+            "system": "LP 98-132",
+            "faction": "Brotherhood of LP 98-132",
+            "influence": 1.4014,
+            "updatedToday": true
+        },
+        {
+            "system": "G 123-49",
+            "faction": "G 123-49 Gold Ring",
+            "influence": 1.5015,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2771",
+            "faction": "Pirates of LHS 2771",
+            "influence": 1.5015,
+            "updatedToday": true
+        },
+        {
+            "system": "Sigma Bootis",
+            "faction": "Sigma Bootis Clan",
+            "influence": 1.7982,
+            "updatedToday": true
+        },
+        {
+            "system": "Ross 1051",
+            "faction": "Lords of Ross 1051",
+            "influence": 1.8,
+            "updatedToday": true
+        },
+        {
+            "system": "BF Canis Venatici",
+            "faction": "Posse of BF Canis Venatici",
+            "influence": 1.8018,
+            "updatedToday": true
+        },
+        {
+            "system": "BD+55 1519",
+            "faction": "Syndicate of BD+55 1519",
+            "influence": 1.8981,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2948",
+            "faction": "LHS 2948 Nationals",
+            "influence": 1.9,
+            "updatedToday": true
+        },
+        {
+            "system": "Wolf 497",
+            "faction": "Wolf 497 Gold Pirates",
+            "influence": 1.9,
+            "updatedToday": true
+        },
+        {
+            "system": "47 Ursae Majoris",
+            "faction": "Nobles of 20 Leonis Minoris",
+            "influence": 1.9019,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2691",
+            "faction": "LHS 2691 Gold Rats",
+            "influence": 1.998,
+            "updatedToday": true
+        },
+        {
+            "system": "Rakapila",
+            "faction": "Rakapila Silver Mafia",
+            "influence": 1.998,
+            "updatedToday": true
+        },
+        {
+            "system": "Ao Guang",
+            "faction": "Unified Ao Guang",
+            "influence": 2.1021,
+            "updatedToday": true
+        },
+        {
+            "system": "Sobek",
+            "faction": "Sobek Boys",
+            "influence": 2.1021,
+            "updatedToday": true
+        },
+        {
+            "system": "LP 131-55",
+            "faction": "LP 131-55 Jet Rats",
+            "influence": 2.1042,
+            "updatedToday": true
+        },
+        {
+            "system": "Ovid",
+            "faction": "Ovid Jet Syndicate",
+            "influence": 2.4,
+            "updatedToday": true
+        },
+        {
+            "system": "Chi Herculis",
+            "faction": "Chi Herculis Crew",
+            "influence": 2.4024,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2764a",
+            "faction": "Cartel of LHS 2764a",
+            "influence": 2.5974,
+            "updatedToday": true
+        },
+        {
+            "system": "Belobog",
+            "faction": "Belobog Crimson Raiders",
+            "influence": 2.7,
+            "updatedToday": true
+        },
+        {
+            "system": "LP 320-359",
+            "faction": "LP 320-359 League",
+            "influence": 2.8,
+            "updatedToday": true
+        },
+        {
+            "system": "LP 64-194",
+            "faction": "LP 64-194 Purple Ring",
+            "influence": 2.8,
+            "updatedToday": true
+        },
+        {
+            "system": "NLTT 34715",
+            "faction": "NLTT 34715 Blue Drug Empire",
+            "influence": 2.8,
+            "updatedToday": true
+        },
+        {
+            "system": "Chaac",
+            "faction": "Chaac Blue Bridge Incorporated",
+            "influence": 2.8028,
+            "updatedToday": true
+        },
+        {
+            "system": "Parcae",
+            "faction": "Parcae Silver Partnership",
+            "influence": 2.8056,
+            "updatedToday": true
+        },
+        {
+            "system": "Magec",
+            "faction": "Justice Party of Magec",
+            "influence": 2.9,
+            "updatedToday": true
+        },
+        {
+            "system": "Ross 1008",
+            "faction": "Ross 1008 Clan",
+            "influence": 3,
+            "updatedToday": true
+        },
+        {
+            "system": "Arcturus",
+            "faction": "Society of Arcturus",
+            "influence": 3.003,
+            "updatedToday": true
+        },
+        {
+            "system": "He Bo",
+            "faction": "He Bo Brothers",
+            "influence": 3.1,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2936",
+            "faction": "LHS 2936 Camorra",
+            "influence": 3.1,
+            "updatedToday": true
+        },
+        {
+            "system": "14 Herculis",
+            "faction": "14 Herculis Purple Camorra",
+            "influence": 3.2,
+            "updatedToday": true
+        },
+        {
+            "system": "Chaxiraxi",
+            "faction": "G 165-13 Commodities",
+            "influence": 3.5035,
+            "updatedToday": true
+        },
+        {
+            "system": "GD 319",
+            "faction": "Nobles of GD 319",
+            "influence": 3.7,
+            "updatedToday": true
+        },
+        {
+            "system": "LFT 992",
+            "faction": "LFT 992 Silver Posse",
+            "influence": 3.7,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2651",
+            "faction": "G 123-49 Coordinated",
+            "influence": 3.7962,
+            "updatedToday": true
+        },
+        {
+            "system": "Beta Comae Berenices",
+            "faction": "Natural Beta Comae Berenices Autocracy",
+            "influence": 3.8961,
+            "updatedToday": true
+        },
+        {
+            "system": "Morgor",
+            "faction": "Morgor Crimson Pirates",
+            "influence": 3.996,
+            "updatedToday": true
+        },
+        {
+            "system": "BD+29 2405",
+            "faction": "BD+29 2405 Vision Industry",
+            "influence": 4.2,
+            "updatedToday": true
+        },
+        {
+            "system": "LFT 880",
+            "faction": "LFT 880 Vision Company",
+            "influence": 4.2,
+            "updatedToday": true
+        },
+        {
+            "system": "Olgrea",
+            "faction": "Silver Travel Inc",
+            "influence": 4.6,
+            "updatedToday": true
+        },
+        {
+            "system": "Aganippe",
+            "faction": "Aganippe Silver Vision Co",
+            "influence": 4.8,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 355",
+            "faction": "LHS 355 Industry",
+            "influence": 5.1948,
+            "updatedToday": true
+        },
+        {
+            "system": "i Bootis",
+            "faction": "League of i Bootis Bureau",
+            "influence": 5.2,
+            "updatedToday": true
+        },
+        {
+            "system": "61 Ursae Majoris",
+            "faction": "Bureau of 61 Ursae Majoris Bureau",
+            "influence": 5.2947,
+            "updatedToday": true
+        },
+        {
+            "system": "Mufrid",
+            "faction": "Mufrid Fortune Interstellar",
+            "influence": 5.5,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 2819",
+            "faction": "Partnership of LHS 2819",
+            "influence": 5.8,
+            "updatedToday": true
+        },
+        {
+            "system": "Aulin",
+            "faction": "Aulin Focus",
+            "influence": 6.1938,
+            "updatedToday": true
+        },
+        {
+            "system": "Ithaca",
+            "faction": "Ithaca Mob",
+            "influence": 6.2,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 287",
+            "faction": "LHS 287 General Systems",
+            "influence": 6.2,
+            "updatedToday": true
+        },
+        {
+            "system": "10 Canum Venaticorum",
+            "faction": "Official 10 Canum Venaticorum Freedom Party",
+            "influence": 6.3,
+            "updatedToday": true
+        },
+        {
+            "system": "LP 176-55",
+            "faction": "Friends of LP 176-55",
+            "influence": 6.3,
+            "updatedToday": true
+        },
+        {
+            "system": "Kuk",
+            "faction": "Kuk Bureau",
+            "influence": 6.5,
+            "updatedToday": true
+        },
+        {
+            "system": "Mullag",
+            "faction": "47 Ursae Majoris Dynasty",
+            "influence": 6.5934,
+            "updatedToday": true
+        },
+        {
+            "system": "Nzambassee",
+            "faction": "Nzambassee Universal Organisation",
+            "influence": 6.6066,
+            "updatedToday": true
+        },
+        {
+            "system": "LHS 371",
+            "faction": "LHS 371 Blue Crew",
+            "influence": 6.8931,
+            "updatedToday": true
+        },
+        {
+            "system": "Payayan",
+            "faction": "LHS 2771 Party",
+            "influence": 7.1928,
+            "updatedToday": true
+        },
+        {
+            "system": "Hera",
+            "faction": "Defence Force of Hera",
+            "influence": 7.4074,
+            "updatedToday": true
+        },
+        {
+            "system": "Dahan",
+            "faction": "Workers of Lalande 29917 Green Party",
+            "influence": 7.5924,
+            "updatedToday": true
+        },
+        {
+            "system": "Tau Bootis",
+            "faction": "United Tau Bootis Party",
+            "influence": 8.9,
+            "updatedToday": true
+        }
+    ]
+}
