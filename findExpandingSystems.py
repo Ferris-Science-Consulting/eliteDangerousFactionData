@@ -31,7 +31,7 @@ def showExpandingData():
     if len(data)>0:
             output += '**Expanding Systems**\n'
             for sys in data:
-                output += 'System: '+ sys['system'] + ', faction: '+ sys['faction'] + ', stateType: ' + sys['stateType'] +', updatedToday: ' + str(sys['updatedToday']) + '\n'
+                output += sys['system'] + ', '+ sys['faction'] + ', ' + sys['stateType'] +', updatedToday: ' + str(sys['updatedToday']) + '\n'
     return output
 
 def returnSystemName(sys):
