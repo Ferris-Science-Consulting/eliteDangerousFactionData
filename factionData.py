@@ -315,6 +315,15 @@ def loadExpansionTargets(top):
                         reduced['Contested_Systems'] = contested
                 return reduced
 
+def loadList(fileName, top):
+        with open(fileName,'r',encoding='utf-8') as file:
+                data = json.load(file)
+                reduced = []
+                if len(data)>0:
+                        a = min(len(data),top)
+                        reduced = data[0:a]
+                return reduced
+
 def showExpansionData():
         data = loadExpansionTargets(10)
         output = ''
@@ -647,16 +656,23 @@ def plot(correlation):
 #                 for sys in systems:
 #                         reducedSystems[id] = systems[id]
 #         return reducedSystems
-
-def findExpansionCandidate (targetSystemName):
-        sysFile = getFileName(date.today(),data_folder,cf.get('sysFileType'))
-        systems = getData(sysFile,cf.get('systemsURL'))
-        systems = convertListToDict(systems)
-        systems = reduceSystemsCube(systems,targetSystemName,20)
-        targetSystem = findObject(systems,targetSystemName)
+def getFactions():
         facFile = getFileName(date.today(),data_folder,cf.get('facFileType'))
         facList = getData(facFile,cf.get('factionsURL'))
         factions = convertListToDict(facList) 
+        return factions
+
+def getSystems(targetSystemName):
+    sysFile = getFileName(date.today(),data_folder,cf.get('sysFileType'))
+    systems = getData(sysFile,cf.get('systemsURL'))
+    systems = convertListToDict(systems)
+    systems = reduceSystemsCube(systems,targetSystemName,20)
+    return systems
+
+def findExpansionCandidate (targetSystemName):
+        systems = getSystems(targetSystemName)
+        targetSystem = findObject(systems,targetSystemName)
+        factions = getFactions()
         uncontestedSystems = []
         contestedSystems = []
         latestTick = findLatestTick()
@@ -709,6 +725,12 @@ def loadExpansionTargets(top):
                         contested = data['Contested_Systems'][0:b]
                         reduced['Contested_Systems'] = contested
                 return reduced
+
+def dumpList(data,fileName,sortKey):
+    if len(data)>0:
+        data.sort(key=sortKey)
+        with open(fileName,'w',encoding='utf-8') as file:
+                json.dump(data,file,ensure_ascii=False,indent=4)
 
 def showExpansionData():
         data = loadExpansionTargets(10)

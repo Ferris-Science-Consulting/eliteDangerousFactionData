@@ -1,82 +1,140 @@
 [
     {
+        "system": "47 Ursae Majoris",
+        "faction": "Alioth Independents",
+        "stateType": "pending_states",
+        "updatedToday": false
+    },
+    {
         "system": "Asellus Primus",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "Aulis",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "BD+47 2112",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "Belobog",
         "faction": "New Pilots Initiative",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "Eranin",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "GD 319",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
+    },
+    {
+        "system": "Hera",
+        "faction": "Alioth Independents",
+        "stateType": "pending_states",
+        "updatedToday": false
     },
     {
         "system": "Keries",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
+    },
+    {
+        "system": "LFT 1073",
+        "faction": "Alliance Democratic Network",
+        "stateType": "pending_states",
+        "updatedToday": false
     },
     {
         "system": "LFT 992",
         "faction": "Aristocrats of Istanu",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "LHS 2430",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
+    },
+    {
+        "system": "LHS 2651",
+        "faction": "Alioth Independents",
+        "stateType": "pending_states",
+        "updatedToday": false
     },
     {
         "system": "LHS 2819",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
+    },
+    {
+        "system": "LHS 2936",
+        "faction": "Alioth Independents",
+        "stateType": "pending_states",
+        "updatedToday": false
     },
     {
         "system": "LHS 350",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "LHS 5287",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "LP 98-132",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "Magec",
         "faction": "New Pilots Initiative",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "Meliae",
         "faction": "New Pilots Initiative",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
     },
     {
         "system": "Morgor",
         "faction": "Terran Colonial Forces",
-        "updatedToday": true
+        "stateType": "active_states",
+        "updatedToday": false
+    },
+    {
+        "system": "Ori",
+        "faction": "Alioth Independents",
+        "stateType": "pending_states",
+        "updatedToday": false
+    },
+    {
+        "system": "i Bootis",
+        "faction": "Movement for LHS 3163 League",
+        "stateType": "recovering_states",
+        "updatedToday": false
     }
 ]

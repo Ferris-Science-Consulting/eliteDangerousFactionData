@@ -1,0 +1,370 @@
+04/27/2020 11:36:01 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:37:00 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:37:51 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:38:34 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:38:48 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:43:02 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:47:13 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:53:20 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:53:42 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:53:42 AM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 11:54:56 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:54:56 AM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 11:55:55 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:55:55 AM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 11:56:19 AM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 11:56:19 AM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 12:08:12 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 12:08:13 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 12:09:03 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 12:09:03 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 12:38:53 PM PyNaCl is not installed, voice will NOT be supported
+04/27/2020 12:38:53 PM logging in using static token
+04/27/2020 12:38:53 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 12:38:53 PM Shard ID None has sent the IDENTIFY payload.
+04/27/2020 12:38:54 PM Shard ID None has connected to Gateway: ["gateway-prd-main-7jhq",{"micros":87567,"calls":["discord-sessions-prd-1-40",{"micros":76552,"calls":["start_session",{"micros":71275,"calls":["api-prd-main-us-east1-2cks",{"micros":67500,"calls":["get_user",{"micros":15375},"add_authorized_ip",{"micros":5006},"get_guilds",{"micros":6690},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3962,"calls":[]}]}]}] (Session ID: 8c4e0c4391c8ade1760a4e313fd57f9d).
+04/27/2020 12:39:47 PM PyNaCl is not installed, voice will NOT be supported
+04/27/2020 12:39:47 PM logging in using static token
+04/27/2020 12:39:48 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 12:39:48 PM Shard ID None has sent the IDENTIFY payload.
+04/27/2020 12:39:49 PM Shard ID None has connected to Gateway: ["gateway-prd-main-5pph",{"micros":66734,"calls":["discord-sessions-prd-1-63",{"micros":65693,"calls":["start_session",{"micros":64564,"calls":["api-prd-main-us-east1-7dc0",{"micros":60217,"calls":["get_user",{"micros":3806},"add_authorized_ip",{"micros":2461},"get_guilds",{"micros":5299},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":382,"calls":[]}]}]}] (Session ID: 6131a61ddea0d05eb9db2a3a872849af).
+04/27/2020 12:40:04 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 12:40:05 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 12:40:06 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 12:40:06 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 12:40:30 PM PyNaCl is not installed, voice will NOT be supported
+04/27/2020 12:40:30 PM logging in using static token
+04/27/2020 12:40:30 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 12:40:30 PM Shard ID None has sent the IDENTIFY payload.
+04/27/2020 12:40:31 PM Shard ID None has connected to Gateway: ["gateway-prd-main-w0vh",{"micros":62909,"calls":["discord-sessions-prd-1-25",{"micros":61762,"calls":["start_session",{"micros":58167,"calls":["api-prd-main-us-east1-gtpr",{"micros":42912,"calls":["get_user",{"micros":2877},"add_authorized_ip",{"micros":2307},"get_guilds",{"micros":4172},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1642,"calls":[]}]}]}] (Session ID: 2429d180d5bffa7a53bc82ad39fcade6).
+04/27/2020 12:40:39 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 12:40:40 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 12:40:41 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 12:40:41 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 12:42:25 PM PyNaCl is not installed, voice will NOT be supported
+04/27/2020 12:42:25 PM logging in using static token
+04/27/2020 12:42:25 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 12:42:25 PM Shard ID None has sent the IDENTIFY payload.
+04/27/2020 12:42:25 PM Shard ID None has connected to Gateway: ["gateway-prd-main-r7pf",{"micros":76906,"calls":["discord-sessions-prd-1-76",{"micros":72172,"calls":["start_session",{"micros":69553,"calls":["api-prd-main-us-east1-r92t",{"micros":65928,"calls":["get_user",{"micros":4717},"add_authorized_ip",{"micros":3384},"get_guilds",{"micros":4998},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: d5c99e34e77abcead1fb5176445c2b9e).
+04/27/2020 12:44:26 PM Received signal to terminate bot and event loop.
+04/27/2020 12:44:26 PM Cleaning up tasks.
+04/27/2020 12:44:26 PM Cleaning up after 4 tasks.
+04/27/2020 12:44:27 PM All tasks finished cancelling.
+04/27/2020 12:44:27 PM Closing the event loop.
+04/27/2020 12:44:44 PM PyNaCl is not installed, voice will NOT be supported
+04/27/2020 12:44:44 PM logging in using static token
+04/27/2020 12:44:45 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 12:44:45 PM Shard ID None has sent the IDENTIFY payload.
+04/27/2020 12:44:45 PM Shard ID None has connected to Gateway: ["gateway-prd-main-0c1l",{"micros":106437,"calls":["discord-sessions-prd-1-51",{"micros":104746,"calls":["start_session",{"micros":101623,"calls":["api-prd-main-us-east1-tf0x",{"micros":94130,"calls":["get_user",{"micros":4284},"add_authorized_ip",{"micros":2720},"get_guilds",{"micros":3511},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2249,"calls":[]}]}]}] (Session ID: b2ee18c8d2cae69a403c960460773f0a).
+04/27/2020 02:11:23 PM Received RECONNECT opcode.
+04/27/2020 02:11:24 PM Got a request to RESUME the websocket.
+04/27/2020 02:11:24 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 02:11:24 PM Shard ID None has sent the RESUME payload.
+04/27/2020 02:11:24 PM Shard ID None has successfully RESUMED session b2ee18c8d2cae69a403c960460773f0a under trace ["gateway-prd-main-bkt9",{"micros":2332,"calls":["discord-sessions-prd-1-51",{"micros":17}]}].
+04/27/2020 06:06:43 PM Received RECONNECT opcode.
+04/27/2020 06:06:43 PM Got a request to RESUME the websocket.
+04/27/2020 06:06:43 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 06:06:43 PM Shard ID None has sent the RESUME payload.
+04/27/2020 06:06:43 PM Shard ID None has successfully RESUMED session b2ee18c8d2cae69a403c960460773f0a under trace ["gateway-prd-main-bs25",{"micros":2742,"calls":["discord-sessions-prd-1-51",{"micros":20}]}].
+04/27/2020 08:46:53 PM Websocket closed with 1001 (), attempting a reconnect.
+04/27/2020 08:46:53 PM Got a request to RESUME the websocket.
+04/27/2020 08:46:54 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 08:46:54 PM Shard ID None has sent the RESUME payload.
+04/27/2020 08:46:54 PM Shard ID None has successfully RESUMED session b2ee18c8d2cae69a403c960460773f0a under trace ["gateway-prd-main-75b7",{"micros":1861,"calls":["discord-sessions-prd-1-51",{"micros":33}]}].
+04/27/2020 08:47:36 PM Shard ID None has stopped responding to the gateway. Closing and restarting.
+04/27/2020 09:38:55 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 09:38:56 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 10:38:04 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 10:38:04 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 10:45:26 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 10:45:26 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 10:46:13 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 10:46:14 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 10:46:57 PM Received signal to terminate bot and event loop.
+04/27/2020 10:46:57 PM Cleaning up tasks.
+04/27/2020 10:46:57 PM Cleaning up after 4 tasks.
+04/27/2020 10:47:07 PM All tasks finished cancelling.
+04/27/2020 10:47:07 PM Closing the event loop.
+04/27/2020 10:47:52 PM local file loaded: Data\2020_04_27_localSystems.json
+04/27/2020 10:47:52 PM local file loaded: Data\2020_04_27_localFactions.json
+04/27/2020 10:47:53 PM PyNaCl is not installed, voice will NOT be supported
+04/27/2020 10:47:53 PM logging in using static token
+04/27/2020 10:47:54 PM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/27/2020 10:47:54 PM Shard ID None has sent the IDENTIFY payload.
+04/27/2020 10:47:54 PM Shard ID None has connected to Gateway: ["gateway-prd-main-0x12",{"micros":116607,"calls":["discord-sessions-prd-1-11",{"micros":111249,"calls":["start_session",{"micros":108466,"calls":["api-prd-main-us-east1-08fq",{"micros":103837,"calls":["get_user",{"micros":6689},"add_authorized_ip",{"micros":2888},"get_guilds",{"micros":5734},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":558,"calls":[]}]}]}] (Session ID: 69f58038df04953623838216dcb9d844).
+04/28/2020 12:31:03 AM Websocket closed with 1006 (), attempting a reconnect.
+04/28/2020 12:31:03 AM Got a request to RESUME the websocket.
+04/28/2020 12:31:14 AM Attempting a reconnect in 0.63s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 469, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/28/2020 12:31:25 AM Attempting a reconnect in 0.12s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/28/2020 12:31:25 AM Attempting a reconnect in 1.45s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/28/2020 12:31:27 AM Attempting a reconnect in 9.84s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/28/2020 12:31:37 AM Attempting a reconnect in 17.34s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/28/2020 12:31:44 AM Shard ID None has stopped responding to the gateway. Closing and restarting.
+04/28/2020 12:31:54 AM Attempting a reconnect in 57.40s
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 967, in _create_direct_connection
+    traces=traces), loop=self._loop)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 830, in _resolve_host
+    self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\resolver.py", line 30, in resolve
+    host, port, type=socket.SOCK_STREAM, family=family)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\base_events.py", line 784, in getaddrinfo
+    None, getaddr_func, host, port, family, type, proto, flags)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 748, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 499, in connect
+    await self._connect()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 460, in _connect
+    self.ws = await asyncio.wait_for(coro, timeout=180.0)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\asyncio\tasks.py", line 442, in wait_for
+    return fut.result()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\gateway.py", line 224, in from_client
+    gateway = await client.http.get_gateway()
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 827, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\http.py", line 165, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 1012, in __aenter__
+    self._resp = await self._coro
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\client.py", line 483, in _request
+    timeout=real_timeout
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 523, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 859, in _create_connection
+    req, traces, timeout)
+  File "C:\Users\filip\AppData\Local\Programs\Python\Python37-32\lib\site-packages\aiohttp\connector.py", line 971, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discordapp.com:443 ssl:default [getaddrinfo failed]
+04/28/2020 12:32:52 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/28/2020 12:32:52 AM Shard ID None has sent the IDENTIFY payload.
+04/28/2020 12:32:52 AM Shard ID None has connected to Gateway: ["gateway-prd-main-1f0m",{"micros":61669,"calls":["discord-sessions-prd-1-51",{"micros":57005,"calls":["start_session",{"micros":52258,"calls":["api-prd-main-us-east1-r445",{"micros":47683,"calls":["get_user",{"micros":5249},"add_authorized_ip",{"micros":1972},"get_guilds",{"micros":5145},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":3584,"calls":[]}]}]}] (Session ID: 634aa1831655062afa0f615825907bdc).
+04/28/2020 02:54:36 AM Received RECONNECT opcode.
+04/28/2020 02:54:36 AM Got a request to RESUME the websocket.
+04/28/2020 02:54:36 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/28/2020 02:54:36 AM Shard ID None has sent the RESUME payload.
+04/28/2020 02:54:36 AM Shard ID None has successfully RESUMED session 634aa1831655062afa0f615825907bdc under trace ["gateway-prd-main-phns",{"micros":3990,"calls":["discord-sessions-prd-1-51",{"micros":47}]}].
+04/28/2020 05:51:52 AM Received RECONNECT opcode.
+04/28/2020 05:51:52 AM Got a request to RESUME the websocket.
+04/28/2020 05:51:52 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/28/2020 05:51:52 AM Shard ID None has sent the RESUME payload.
+04/28/2020 05:51:53 AM Shard ID None has successfully RESUMED session 634aa1831655062afa0f615825907bdc under trace ["gateway-prd-main-tflr",{"micros":27117,"calls":["discord-sessions-prd-1-51",{"micros":18}]}].
+04/28/2020 07:41:02 AM Received RECONNECT opcode.
+04/28/2020 07:41:02 AM Got a request to RESUME the websocket.
+04/28/2020 07:41:03 AM Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+04/28/2020 07:41:03 AM Shard ID None has sent the RESUME payload.
+04/28/2020 07:41:03 AM Shard ID None has successfully RESUMED session 634aa1831655062afa0f615825907bdc under trace ["gateway-prd-main-9mxk",{"micros":905,"calls":["discord-sessions-prd-1-51",{"micros":16}]}].
+04/28/2020 09:46:39 AM Received signal to terminate bot and event loop.
+04/28/2020 09:46:39 AM Cleaning up tasks.
+04/28/2020 09:46:39 AM Cleaning up after 4 tasks.
