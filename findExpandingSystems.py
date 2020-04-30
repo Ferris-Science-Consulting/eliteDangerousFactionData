@@ -1,4 +1,4 @@
-from factionData import getSystems,getFactions,datetime,findLatestTick,dumpList,loadList,cf
+from factionData import getSystems,getFactions,datetime,findLatestTick,dumpList,loadList,cf,formatData
 
 def findExpandingSystems(targetSystem):
     systems = getSystems(targetSystem)
@@ -27,11 +27,8 @@ def findExpandingSystems(targetSystem):
   
 def showExpandingData():
     data = loadList(cf.get('expandingSystem'),10)
-    output = ''
-    if len(data)>0:
-            output += '**Expanding Systems**\n'
-            for sys in data:
-                output += sys['system'] + ', '+ sys['faction'] + ', ' + sys['stateType'] +', updatedToday: ' + str(sys['updatedToday']) + '\n'
+    if len(data) > 0:
+        output = formatData(data)
     return output
 
 def returnSystemName(sys):

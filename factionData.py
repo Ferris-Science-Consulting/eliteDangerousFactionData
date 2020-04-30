@@ -293,12 +293,18 @@ def showExpansionData():
         output = ''
         if 'Uncontested_Systems' in data:
                 output += '**Uncontested systems**\n'
-                for fac in data['Uncontested_Systems']:
-                        output += fac['system'] + ', '+ fac['faction']+', inf: '+ str(fac['influence']) + ', updated:'+ str(fac['updatedToday'])+ '\n'
+                output += formatData(data['Uncontested systems'])
         if 'Contested_Systems' in data:
                 output += '**Contested systems**\n'
-                for fac in data['Contested_Systems']:
-                        output += fac['system'] + ', '+ fac['faction']+', inf: '+ str(fac['influence']) + ', updated:'+ str(fac['updatedToday'])+ '\n'
+                output+= formatData(data['Contested_Systems'])
+        return output
+
+def formatData(data):
+        output = ''
+        for d in data:
+                for key,value in d.items():
+                        output+= key + ': ' + str(value) + ', \t'
+                output += '\n'
         return output
 
 def returnSystemDistance(sys):
